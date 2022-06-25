@@ -47,7 +47,6 @@ plt.imshow(image_erode1, 'gray')
 image_dilate1 = cv2.dilate(img1, kernel)
 plt.imshow(image_dilate1, 'gray')
 ```
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Output:
 ### Display the input Image
